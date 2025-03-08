@@ -1,0 +1,10 @@
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\bin\Debug\Paint_App_102230308.exe.config
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\bin\Debug\Paint_App_102230308.exe
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\bin\Debug\Paint_App_102230308.pdb
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.csproj.AssemblyReference.cache
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.Properties.Resources.resources
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.csproj.GenerateResource.cache
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.csproj.CoreCompileInputs.cache
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.exe
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.pdb
+D:\ITFaculty\.Net VS2022\Paint_App_102230308\Paint_App_102230308\obj\Debug\Paint_App_102230308.PaintApp.resources
